@@ -12,6 +12,7 @@ The Account Management System is a web application built with React and Redux fo
 - ![Screenshot_20240203_233739](https://github.com/lalitpal4567/Account-Management-React/assets/103810580/e2916a7e-35b9-47cb-b4e2-894127f35b14)
 - ![Screenshot_20240203_234015](https://github.com/lalitpal4567/Account-Management-React/assets/103810580/d4ae50ca-679a-4fc3-afb1-2b29e6eac6c7)
 - ![Screenshot_20240203_234208](https://github.com/lalitpal4567/Account-Management-React/assets/103810580/7328aa71-1b73-477b-9c5f-42f00db17d06)
+- ![Screenshot_20240203_234409](https://github.com/lalitpal4567/Account-Management-React/assets/103810580/d7069bd1-b2ef-47b4-80ce-f6f15e10fae6)
 
 
 ## Technologies Used
