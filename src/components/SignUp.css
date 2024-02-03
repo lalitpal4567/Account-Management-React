@@ -1,0 +1,23 @@
+.row{
+    --bs-gutter-x: 0;
+}
+.login-css{
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+}
+@media (min-Width: 576px) {
+    .login-css{
+        border-top-left-radius: 0px;
+    }
+    
+}
+.form-css{
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+@media (min-Width: 576px) {
+    .form-css{
+        border-bottom-left-radius: 0px;
+    }
+    
+}
