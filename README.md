@@ -30,7 +30,7 @@ The Account Management System is a web application built with React and Redux fo
 To run the Account Management System locally, follow these steps:
 
 1. Clone the repository to your local machine:
-   git clone https://github.com/your-username/account-management-system.git
+   git clone https://github.com/lalitpal4567/Account-Management-React.git
    
 2. Navigate to the project directory:
    cd account-management-system
