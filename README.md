@@ -9,6 +9,9 @@ The Account Management System is a web application built with React and Redux fo
 - **User Account Details:** Provides users with the ability to view and edit their account details, including email, first name, last name, and contact number.
 - **Redux Integration:** Utilizes Redux for state management, ensuring a predictable and centralized state container for managing user data across components.
 
+- ![Screenshot_20240203_233739](https://github.com/lalitpal4567/Account-Management-React/assets/103810580/e2916a7e-35b9-47cb-b4e2-894127f35b14)
+
+
 ## Technologies Used
 
 - **React:** A JavaScript library for building user interfaces.
