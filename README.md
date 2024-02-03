@@ -16,10 +16,39 @@ The Account Management System is a web application built with React and Redux fo
 - **React Router DOM:** Provides declarative routing for React applications.
 - **JavaScript (ES6+):** The programming language used to build the application logic.
 - **HTML5 & CSS3:** Markup and styling languages for structuring and designing the user interface.
+- **Bootstrap5:** Creating a responsive application using bootstrap media query
 
 ## Getting Started
 
 To run the Account Management System locally, follow these steps:
 
 1. Clone the repository to your local machine:
+   git clone https://github.com/your-username/account-management-system.git
+   
+2. Navigate to the project directory:
+   cd account-management-system
+   
+3. Install the necessary dependencies:
+   npm install
+   
+4. Start the development server:
+   npm start
+
+   
+5. Open your web browser and visit [http://localhost:3000](http://localhost:3000) to view the application.
+
+## Contributing
+
+Contributions to the Account Management System are welcome! If you would like to contribute, please follow these steps:
+
+1. Clone the repository on GitHub.
+2. Create a new branch with a descriptive name for your feature or fix.
+3. Make your changes and commit them to your branch.
+4. Push your changes to your fork.
+5. Submit a pull request to the main repository's `main` branch.
+
+
+
+
+
 
